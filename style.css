@@ -23,4 +23,5 @@ body{
 #image-container img{
     max-width: 256px;
     margin: 1em;
+    border-radius: 10px;
 }
