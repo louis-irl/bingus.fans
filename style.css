@@ -24,4 +24,8 @@ body{
     max-width: 256px;
     margin: 1em;
     border-radius: 10px;
+    transition: .2s;
+}
+#image-container img:hover{
+    transform: scale(1.1);
 }
